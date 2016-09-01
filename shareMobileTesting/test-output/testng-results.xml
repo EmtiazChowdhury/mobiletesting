@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="42128" started-at="2016-09-01T02:05:01Z" finished-at="2016-09-01T02:05:43Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="42128" started-at="2016-09-01T02:05:01Z" finished-at="2016-09-01T02:05:43Z">
+      <class name="FirstMobileTest.mobileTest">
+        <test-method status="PASS" signature="test1()[pri:0, instance:FirstMobileTest.mobileTest@1c36524]" name="test1" duration-ms="41986" started-at="2016-08-31T22:05:01Z" finished-at="2016-08-31T22:05:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- FirstMobileTest.mobileTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
